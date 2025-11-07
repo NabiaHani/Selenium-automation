@@ -1,4 +1,4 @@
-Daraz.pk Functional Test Automation
+## 🧩 Daraz.pk Functional Test Automation
 
 This project automates functional testing of the **Daraz.pk e-commerce website** using **Selenium WebDriver** (can also be adapted to Playwright). It verifies the search, filtering, and product details workflow to ensure the website behaves as expected.
 
@@ -12,13 +12,15 @@ This project automates functional testing of the **Daraz.pk e-commerce website**
 * **Microsoft Edge / Google Chrome**
 * **JavaScript (ES6)**
 
+---
+
 ## 📂 Project Setup
 
 ### 1️⃣ Clone or create the project
 
 ```bash
-mkdir daraz-automation
-cd daraz-automation
+mkdir selenium-automation
+cd selenium-automation
 npm init -y
 ```
 
@@ -34,9 +36,11 @@ If using Chrome:
 
 ```bash
 npm install chromedriver
+```
 
+---
 
-Tasks to Complete
+## 🧠 Tasks to Complete
 
 | Step | Task Description                                                                  |
 | ---- | --------------------------------------------------------------------------------- |
