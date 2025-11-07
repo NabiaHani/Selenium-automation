@@ -70,8 +70,12 @@ npm install chromedriver
 ## 🧾 Example Folder Structure
 
 ```
-daraz-automation/
+daraz-automation (selenium) - Nabia Hani/
 │
+├── pages/
+│   └── homepage.js
+│   └── productdetailpage.js
+│   └── searchresultpage.js
 ├── tests/
 │   └── daraztest.js
 │
