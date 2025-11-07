@@ -1,0 +1,23 @@
+{
+  "name": "daraz-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "mocha tests/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^6.2.0",
+    "chrome": "^0.1.0",
+    "driver": "^1.0.0",
+    "mocha": "^11.7.5",
+    "selenium-webdriver": "^4.38.0"
+  },
+  "main": "testLaunch.js",
+  "devDependencies": {
+    "chromedriver": "^141.0.6"
+  }
+}
